@@ -1,1 +1,1 @@
-var multiplicationTable = angular.module('multiplicationTableApp', []);
+var multiplicationTable = angular.module('myApp', []);
