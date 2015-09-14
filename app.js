@@ -1,0 +1,1 @@
+var multiplicationTable = angular.module('multiplicationTableApp', []);
