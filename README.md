@@ -9,5 +9,5 @@ Basic multiplication table that can be changed to the needs of the user
 
 ##Demo
 
-1. Visit the demo here
+1. Visit the demo [here](http://bencodezen.github.io/ngMultiplicationTable/)
 2. Clone repository on your local machine and open `index.html`
